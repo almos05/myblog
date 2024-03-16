@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:almos05/almos05.github.io.git
+	branch = main
